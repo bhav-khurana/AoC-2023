@@ -1,4 +1,4 @@
-package main
+package part2
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"unicode"
 )
 
-func main() {
+func Solve() {
 
 	var ans int
 	var digits map[string]int

@@ -1,11 +1,11 @@
-package main
+package part1
 
 import (
 	"fmt"
 	"unicode"
 )
 
-func main() {
+func Solve() {
 
 	var ans int
 
